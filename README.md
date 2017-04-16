@@ -5,4 +5,6 @@ this repository contains my assignments
 
 [Assignment week 4](https://github.com/StefanMartens/assignments/blob/master/Assignment_week_4.ipynb)
 
+[Assignment week 5](https://github.com/StefanMartens/assignments/blob/master/Assignment_week_5.ipynb)
+
 
