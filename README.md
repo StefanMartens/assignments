@@ -7,4 +7,5 @@ this repository contains my assignments
 
 [Assignment week 5](https://github.com/StefanMartens/assignments/blob/master/Assignment_week_5.ipynb)
 
+[Assignment week 6](https://github.com/StefanMartens/assignments/blob/master/assignment4.ipynb)
 
