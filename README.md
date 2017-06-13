@@ -9,3 +9,6 @@ this repository contains my assignments
 
 [Assignment week 6](https://github.com/StefanMartens/assignments/blob/master/assignment4.ipynb)
 
+[Final R assignment](https://github.com/StefanMartens/assignments/blob/master/OECD_R_exam.ipynb)
+
+[Final Python assignment](https://github.com/StefanMartens/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
